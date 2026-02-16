@@ -9,6 +9,9 @@ Replace the sample dataset with real operational data
 Add security, privacy, and access controls e.g 
 Automate the pipeline instead of running SQL manually
 Expand the analytics: A real company would require;
+
   Predictive modeling (logistic regression, XGBoost)
+  
   Probability of default (PD) scoring
+  
   Early warning indicators
